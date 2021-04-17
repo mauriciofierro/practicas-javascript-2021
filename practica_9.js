@@ -1,7 +1,7 @@
 //Objetos & Funciones
 
 function displayCar(){
-    var impresion = `Un coche ${this.year} ${this.modelo} a la venta, dueña ${this.owner.nombre}`;
+    var impresion = `Un coche ${this.year} ${this.model} a la venta, dueña ${this.owner.nombre}`;
     console.log(impresion);
 }
 
