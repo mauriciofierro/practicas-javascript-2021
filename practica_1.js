@@ -4,7 +4,7 @@ console.log("Aquí se imprime una línea")
 
 // Imprimir en dos líneas
 
-console.log('Línea uno \n Línea dos\n')
+console.log('Línea uno \nLínea dos\n')
 
 var  myArray = [];
 myArray[3] = 67
